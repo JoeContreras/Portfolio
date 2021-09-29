@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+/.idea/.gitignore
+/.idea/jsLibraryMappings.xml
+/.idea/modules.xml
+/.idea/portfolio_website-STARTER.iml
+/.idea/prettier.xml
+/.idea/vcs.xml
