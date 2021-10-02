@@ -1,5 +1,4 @@
 import React from "react";
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
@@ -13,6 +12,9 @@ import {
   SocialContainer,
   SocialIconsContainer,
 } from "./FooterStyles";
+import { AiFillGithub } from "@react-icons/all-files/ai/AiFillGithub";
+import { AiFillLinkedin } from "@react-icons/all-files/ai/AiFillLinkedin";
+import { SiIndeed } from "@react-icons/all-files/si/SiIndeed";
 
 const Footer = () => {
   return (
@@ -37,11 +39,12 @@ const Footer = () => {
           <SocialIcons href="https://github.com/JoeContreras">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://Linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/joe-contreras-0085a4222/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
-            <AiFillInstagram size="3rem" />
+          <SocialIcons href="https://my.indeed.com/p/joec-xqb2kd6">
+            {/*<AiFillInstagram size="3rem" />*/}
+            <SiIndeed size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>
