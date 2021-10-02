@@ -47,7 +47,7 @@ export const projects = [
     tags: ["MongoDB", "Express", "React.js", "Node.js"],
     source: "https://github.com/JoeContreras/Task-manager-app",
     visit: "https://jce-task-manager.netlify.app/",
-    id: 3,
+    id: 4,
   },
   {
     title: "Chat App",
@@ -57,7 +57,7 @@ export const projects = [
     tags: ["Node.js", "Web Sockets"],
     source: "https://github.com/JoeContreras/chat-app",
     visit: "https://jce-chat-app.herokuapp.com/",
-    id: 3,
+    id: 5,
   },
 ];
 
