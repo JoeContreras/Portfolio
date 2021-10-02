@@ -38,3 +38,4 @@ yarn-error.log*
 /.idea/portfolio_website-STARTER.iml
 /.idea/prettier.xml
 /.idea/vcs.xml
+/.idea/file.template.settings.xml
