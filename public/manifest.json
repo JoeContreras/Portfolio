@@ -1,0 +1,22 @@
+{
+  "name": "My Curriculum",
+  "short_name": "My CV",
+  "icons": [
+    {
+      "src": "/icons/cvLogo1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+
+    {
+      "src": "/icons/cvLogo2.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
