@@ -8,10 +8,6 @@ import {
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
 
-const downloadFile = () => {
-  window.location.href = "https://yoursite.com/src/assets/files/exampleDoc.pdf";
-};
-
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
@@ -23,7 +19,9 @@ const Hero = () => (
         Hard-working web developer with a flair for creating elegant solutions
         in the least amount of time.
       </SectionText>
-      <Button>Learn More</Button>
+      <a href="/assets/resume.pdf" download target="_blank">
+        <Button>Learn More</Button>
+      </a>
     </LeftSection>
   </Section>
 );
