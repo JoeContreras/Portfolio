@@ -21,13 +21,31 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
+          <LinkTitle>Joe Contreras</LinkTitle>
           <LinkItem href="tel:618-800-7471">618-800-7471</LinkItem>
+          <LinkItem href="mailto:joe.contreras809@gmail.com">
+            joe.contreras809@gmail.com
+          </LinkItem>
         </LinkColumn>
         <LinkColumn>
-          <LinkTitle>Email</LinkTitle>
+          <LinkTitle>Saul Gutierrez</LinkTitle>
+          <LinkItem href="tel:618-758-7480">618-758-7480</LinkItem>
           <LinkItem href="mailto:joe.contreras809@gmail.com">
-            joe.contreras809@gamil.com
+            saulGutierrez123@gmail.com
+          </LinkItem>
+        </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Paola Zamora</LinkTitle>
+          <LinkItem href="tel:618-807-7807">618-807-7807</LinkItem>
+          <LinkItem href="mailto:joe.contreras809@gmail.com">
+            zamora.paola9@gmail.com
+          </LinkItem>
+        </LinkColumn>
+        <LinkColumn>
+          <LinkTitle>Jose Gutierrez</LinkTitle>
+          <LinkItem href="tel:618-178-7090">618-178-7090</LinkItem>
+          <LinkItem href="mailto:joe.contreras809@gmail.com">
+            jose.luis123@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>

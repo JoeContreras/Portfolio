@@ -2,7 +2,7 @@ import React from "react";
 
 import {
   Section,
-  SectionDividerFull,
+  SectionDividerFull2,
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
@@ -34,7 +34,7 @@ const Acomplishments = () => (
         </Box>
       ))}
     </Boxes>
-    <SectionDividerFull divider />
+    <SectionDividerFull2 divider />
   </Section>
 );
 

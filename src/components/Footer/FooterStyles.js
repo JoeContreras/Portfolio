@@ -112,8 +112,8 @@ export const SocialContainer = styled.div`
 export const LinkList = styled.ul`
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   display: grid;
-  grid-template-columns: repeat(3, minmax(85px, 220px));
-  gap: 40px;
+  grid-template-columns: repeat(2, minmax(85px, 220px));
+  gap: 5em 20em;
   padding: 40px 0 28px;
 
   @media ${(props) => props.theme.breakpoints.lg} {
@@ -128,7 +128,9 @@ export const LinkList = styled.ul`
   @media ${(props) => props.theme.breakpoints.sm} {
     width: 100%;
     padding: 32px 4px 16px;
+    grid-template-columns: repeat(1, minmax(85px, 220px));
     gap: 5px;
+    margin: auto;
   }
 `;
 
@@ -137,6 +139,7 @@ export const LinkColumn = styled.div`
   flex-direction: column;
   max-width: 220px;
   width: 100%;
+  margin-bottom: 1em;
 `;
 export const LinkTitle = styled.h4`
   font-style: normal;
