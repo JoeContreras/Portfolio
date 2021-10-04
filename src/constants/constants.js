@@ -78,7 +78,7 @@ export const projects2 = [
   {
     title: "Asana",
     description:
-      "This is a personal application that was developed to devolop my skills in React.js, Redux and Node.js",
+      "This is a personal application that was developed to develop my skills in React.js, Redux and Node.js",
     image: "/images/crud-dark.webp",
     tags: ["MySQL", "GraphQL", "React.js", "Node.js"],
     source: "https://github.com/JoeContreras/Task-manager-app",
@@ -153,7 +153,8 @@ export const projects3 = [
 export const projects4 = [
   {
     title: "Mar-Sci",
-    description: "Technologies.js",
+    description:
+      "This is a personal application that was developed to develop my skills in Next.js, Redux and Node.js",
     image: "/images/mern-dash.png",
     tags: ["React.js", "Material-UI", "Next.js", "Node.js"],
     source: "https://github.com/JoeContreras/arc-development",
