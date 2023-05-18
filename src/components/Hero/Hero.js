@@ -19,7 +19,7 @@ const Hero = () => (
         Hard-working web developer with a flair for creating elegant solutions
         in the least amount of time.
       </SectionText>
-      <a href="/assets/resume.pdf" download target="_blank">
+      <a href="/assets/Resume_2.pdf" download target="_blank">
         <Button>Learn More</Button>
       </a>
     </LeftSection>
