@@ -47,7 +47,7 @@ const Projects = () => (
                 Code
               </ExternalLinks>
               <ExternalLinks href={visit} target="_blank">
-                Source
+                Visit
               </ExternalLinks>
             </UtilityList>
           </BlogCard>

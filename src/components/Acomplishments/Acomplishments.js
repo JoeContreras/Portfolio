@@ -15,7 +15,7 @@ const data = [
   },
   {
     number: "Software Engineering",
-    text: "2020-08 - Present",
+    text: "2020-08 - 2022--06",
     school: "Universidad Tecnologica de Durango",
   },
   // { number: 1900, text: "Github Followers" },
