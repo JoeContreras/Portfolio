@@ -23,7 +23,7 @@ export const projects = [
     title: "Amp Development",
     description:
       "Webiste built as as school project using newer technologies such as React.js in tandem with a front-end CSS framework like Material-UI ",
-    image: "/images/arcDev.png",
+    image: "/images/ampDev.PNG",
     tags: ["React.js", "Material-UI"],
     source: "https://github.com/JoeContreras/arc-development",
     visit: "https://utd-amp-development.netlify.app/",
