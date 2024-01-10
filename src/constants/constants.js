@@ -36,7 +36,7 @@ export const projects = [
     image: "/images/nexter.PNG",
     tags: ["HTML", "Sass", "Grid", "post-css"],
     source: "https://github.com/JoeContreras/Nexter-Project",
-    visit: "https://jce-trillo.netlify.app/",
+    visit: "https://jce-nexter.netlify.app/",
     id: 3,
   },
 {
